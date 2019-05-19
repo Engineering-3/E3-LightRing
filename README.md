@@ -13,7 +13,7 @@ Repository Contents
 
 Version History
 ---------------
-* [E3-LightRing_v1_3](https://github.com/Engineering-3/E3-LightRing/tree/master/ First released version
+* https://github.com/Engineering-3/E3-LightRing/tree/master/ First released version
 
 
 License Information
