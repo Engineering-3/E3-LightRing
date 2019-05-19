@@ -1,0 +1,7 @@
+Version one: Built 3/31/2019
+
+Build notes:
+* Resistor footprints are too small - change to one with more distance between pins
+* LED footprint does not show polarity on silk screen. Change to one that does.
+
+Tested with power supply from 9.7V (310mA) to 8V (190mA), very bright across whole range.

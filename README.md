@@ -8,12 +8,12 @@ An LED light ring similar to other camera light rings. The E3-LightRing is desig
 Repository Contents
 -------------------
 
-* **/E3-LightRing_v1_3/** - Eagle schematic/board files, gerbers, and BOM
+* Eagle schematic/board files, gerbers, and BOM
 
 
 Version History
 ---------------
-* [E3-LightRing_v1_3](https://github.com/Engineering-3/E3-LightRing/tree/master/E3-LightRing_v1_3)- First released version
+* [E3-LightRing_v1_3](https://github.com/Engineering-3/E3-LightRing/tree/master/ First released version
 
 
 License Information
